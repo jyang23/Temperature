@@ -42,7 +42,8 @@ div container
 
 .fah_to_cel
 {
-    background-color: #222222;
+    border-radius: 12px;
+    background-color: black;
     color: #fff;
     font-size: 20px;
     padding: 0.5em 0.75em;
@@ -52,7 +53,8 @@ div container
 
 .cel_to_fah
 {
-    background-color: #222222;
+    border-radius: 12px;
+    background-color: black;
     color: #fff;
     font-size: 20px;
     padding: 0.5em 0.75em;
